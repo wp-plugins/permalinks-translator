@@ -12,7 +12,7 @@ Translates your permalinks in the language of your choice.
 
 Translates your permalinks.
 
-Useful for languages such as greek, where you can write your title as normal and instead of greek or greaklish, you want to use translated permalinks.
+Useful for languages such as greek, where you can write your title as normal and instead of greek or greeklish, you want to use translated permalinks.
 
 Translation languages are configurable.
 
